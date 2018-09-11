@@ -1,0 +1,17 @@
+kasir:
+- melihat pesanan
+- rincian
+- print nota
+- print laporan
+printer:
+- epson TM-U220
+waiters:
+- lihat menu
+- pesan
+- kirim pesanan ke kasir
+laporan:
+- keuntungan harian/bulanan/tahunan
+user:
+- waiter
+- kasir
+- admin
